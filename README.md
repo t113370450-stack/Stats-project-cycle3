@@ -1,8 +1,8 @@
 # Project Cycle 3: Two-Sample Inference 
 
-## Group Information / 小組資訊
-* **Group Number / 小組組號**: 17
-* **Members / 成員姓名**: 113370450蘇孟孜、111370231吳子漢
+## Group Information 
+* **Group Number**: 17
+* **Members**: 113370450蘇孟孜、111370231吳子漢
 
 ## 1. Research Question & Dataset / 研究題目與資料集
 * [cite_start]**Selected Question / 選定題目**: Question 5: Gender and Height/第五題：性別與身高關係 [cite: 67]

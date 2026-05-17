@@ -1,0 +1,9 @@
+Metric / Statistic,Value,Interpretation
+Hypothesis (H0),mu_M = mu_F,Testing equality of mean height
+Mean Difference (Male - Female),0.1275 m,Male is 12.75 cm taller on average
+Welch's t-statistic,92.3129,Extremely high critical value
+Adjusted Degrees of Freedom (df),12892.35,Welch-Satterthwaite correction
+p-value,< 0.0001,Statistically highly significant
+95% Confidence Interval Lower (cm),12.47,Lower bound of height gap
+95% Confidence Interval Upper (cm),13.02,Upper bound of height gap
+Cohen's d (Effect Size),1.5714,Very Large Effect Size

@@ -54,3 +54,8 @@
 在 a = 0.05 的顯著水準下，由於 p-value 極小 (p < 0.001)，故強烈拒絕虛無假設H0: u-male = u-female。
 統計結果提供高度顯著的證據顯示，美國男女高中生的平均身高存在高度顯著差異。在實際脈絡中，男性的平均身高（1.7574 m）顯著高於女性的平均身高（1.6299 m），兩組平均差距約為 0.1275 公尺（12.75 公分）。
 此外，兩組身高落差的 95% 信賴區間為 **[0.1247, 0.1302] 公尺**（即 12.47 至 13.02 公分）。由於此信賴區間完全不包含 0（且與無差異基準線 `y = 0` 有極大差距），進一步交叉證實了男性高中生在生理身高上顯著高於女性高中生的母體事實。
+
+## Project Repository
+https://github.com/t113370450-stack/Stats-project-cycle3
+## Presentation Video
+https://drive.google.com/file/d/1UMGtxQa1Pq1IDVISlFqGghXxvd0-jj__/view?usp=sharing
